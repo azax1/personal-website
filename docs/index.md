@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1R6YSWQCY4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1R6YSWQCY4');
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Aryeh Zax</title>
+<style>
+table.h1 { width: 100%; font-size: 300%}
+table.h2 { width: 60%; font-size: 200%}
+table.h3 { width: 42.9%; font-size: 150%}
+table.h4 { width: 33.3%; font-size: 120%}
+table.h5 { width: 27.3%; font-size: 100%}
+.h1 td, .h2 td, .h3 td, .h4 td .h5 td {
+     font-family: Times, "Times New Roman", FreeSerif, serif }
+.bar td { background: #005500; height: 3px }
+a img { border-width: 1px}
+
+table.columns { text-align: center }
+.columns td { vertical-align: top; text-align: left; padding-right: 2em }
+</style>
+</head>
+
+<body bgcolor=#d2e0e0>
+<table class="h1">
+<tr><td><img src="portrait.jpg" style="width:230px;height:190px;" border=1>
+Aryeh Zax</td></tr>
+<tr class="bar"><td></td></tr></table></p>
+
+<main>
+I graduated from Cornell in 2018 with a major in math and minors in computer science and physics. I am a software engineer based in Mountain View; feel free to contact me if you are interested in my services.<br><br>
+
+<p><table class="h3"><tr><td>A Mathematician’s Miscellany</td></tr>
+<tr class="bar"><td></td></tr></table></p>
+
+<dl><dd><table><tr valign=top><td>
+
+Current projects I’m juggling (in increasing order of ambition):
+
+<ul>
+<li>Improving my website’s design</li>
+<li>An <a href="https://github.com/azax1/Crossword">applet</a> for crossword puzzling</li>
+<li>A translation of the whimsical <i>Chanson de la Palisse</i>, a French folk song filled with tautologies</li>
+<li>An applet to help with composing chess endgame studies</li></ul>
+
+</td></tr></table></dd></dl>
+
+<p><table class="h3"><tr><td>Links</td></tr>
+<tr class="bar"><td></td></tr></table></p>
+<dl><dd><table><tr valign=top><td>
+<ul>
+<li>My <a href="https://github.com/azax1">GitHub</a> page</li>
+<li>My <a href="https://projecteuler.net/progress=azax1">Project Euler</a> page</li>
+<li><a href="mailto:a at aryehzax dot com">Contact</a></li>
+</ul>
+</td></tr></table></dd></dl>
+<table class="h1"><tr class="bar"><td></td></tr></table></p>
+</main>
+</body>
+</html>
+<!--SHA-2 hash of secret message: 080245aa4ef39dcc3a6b600459a0af8adf29d3b39f30d4982d28e974551c73f9-->
